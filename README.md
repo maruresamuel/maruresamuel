@@ -1,10 +1,10 @@
 - 👋 Hi, I’m maruresamuel
--  I’m interested in data science, graphic designing, SEOs and full stack web development
--  I’m currently learning python for data science
--  I’m looking to collaborate on data science and web developent projects
+-  I’m interested in graphic designing, SEOs and full stack web development
+-  I’m currently learning javascript
+-  I’m looking to collaborate on web developent projects.
 -  How to reach me via email maruresamuel@gmail.com
 
--  Fun fact: Am a tech enthusiast
+-  Fun fact: Am a crypto and forex trader.
 
 <!---
 maruresamuel/maruresamuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
